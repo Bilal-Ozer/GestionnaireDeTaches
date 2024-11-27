@@ -1,0 +1,16 @@
+.form-container{
+    background-color: azure;
+    height: 80vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.tache{
+    background-color: antiquewhite;
+    padding: 4px;
+    margin: 4px;
+    width: 400px;
+    border: #8d734f69 solid 1px;
+    border-radius: 4px;
+}
